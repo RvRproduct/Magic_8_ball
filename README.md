@@ -23,13 +23,11 @@ I made separate views so the user wouldnt be stuck on one screen.
 
 # Useful Websites
 
-* [TreeHouse on Java](https://teamtreehouse.com/tracks/beginning-java)
-* [GeeksforGeeks Java](https://www.geeksforgeeks.org/java/?ref=ghm)
-* [Stack overflow](https://stackoverflow.com/)
-* [W3 Schools Java](https://www.w3schools.com/java/default.asp)
+* [Android Development](https://developer.android.com/docs)
+* [Kotlin](https://developer.android.com/kotlin)
 
 # Future Work
 
 * Getting Better at analyzing how long an idea might take within a deadline.
-* Get better and Java and other languages of interest.
-* Continue development in my own personal projects, so I can continue to improve.
+* Get better at mobile development.
+* Learn more about Kotlin, since that language seems like it is the most popular for mobile development.

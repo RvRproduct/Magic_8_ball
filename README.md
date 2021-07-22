@@ -13,7 +13,7 @@ your question and once an answer is given you are given the option to ask anothe
 I would enjoy getting more into mobile development, as it is really popular nowadays and there is a lot of
 opportunity there to be had.
 
-[Software Demo Video](https://www.youtube.com/watch?v=Xe8-eKrETJw)
+[Software Demo Video](https://youtu.be/3oAVliPPhac)
 
 # Development Environment
 

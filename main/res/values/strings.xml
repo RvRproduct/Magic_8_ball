@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Magic 8 Ball</string>
+    <string name="shake">shake</string>
+    <string name="again">Again?</string>
+</resources>

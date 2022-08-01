@@ -3,7 +3,7 @@ _Roberto_Reynoso
 # Overview
 This Application is Called Magic_8_Ball
 This is a mobile application made with using Android Studio and the programming language Kotlin.
-The goal of this project was to develop a fun a and simple add while taking advantage of muiliple
+The goal of this project was to develop a fun a and simple app while taking advantage of muiliple
 views. I wanted to make something that would be used atleast more than once. Which is where I got
 the idea to create a magic 8 ball app.
 
